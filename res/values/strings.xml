@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puzzle15</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_msg">Developer: Sakthi Kumar\n\nThis app is developed with basic controls. Get interested and develop your own. See the source in www.iandroid.in.</string>
+    <string name="game_over_msg">Congrats!\nYou have solved the puzzle. Click New to start a new game.</string>
+    <string name="new_game_msg">Current progress will be lost.\nStart New game?</string>
+    <string name="restart_game_msg">Current progress will be lost.\nRestart this game?</string>
+    <string name="exit_game_msg">Do you really want to exit?</string>
+    <string name="title_activity_splash">Splash</string>
+	<string name="no_moves_msg">No moves made still</string>
+</resources>

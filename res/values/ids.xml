@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="block00" />
+	<item type="id" name="block01" />
+	<item type="id" name="block02" />
+	<item type="id" name="block03" />
+	<item type="id" name="block10" />
+	<item type="id" name="block11" />
+	<item type="id" name="block12" />
+	<item type="id" name="block13" />
+	<item type="id" name="block20" />
+	<item type="id" name="block21" />
+	<item type="id" name="block22" />
+	<item type="id" name="block23" />
+	<item type="id" name="block30" />
+	<item type="id" name="block31" />
+	<item type="id" name="block32" />
+	<item type="id" name="block33" />
+	<item type="id" name="lblMoves" />
+</resources>
